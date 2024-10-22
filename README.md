@@ -13,7 +13,7 @@ AI Text Summarizer App- built using Using Langchain 🦜🔗, OpenAI and Streaml
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-text-summarizer.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-text-summarizer-langchain.streamlit.app/)
 
 ## Required- OpenAI API key
 
